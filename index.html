@@ -1,46 +1,33 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>11° Congreso Internacional ICEA 2026</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>11° Congreso Internacional ICEA 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <aside class="sidebar" id="sidebar">
-    <div class="brand-card">
-      <div class="badge-11">11°</div>
-      <div><strong>Congreso ICEA<br>2026</strong><span>Sitio oficial del programa</span></div>
-    </div>
-    <nav class="nav" aria-label="Navegación principal">
-      <button class="nav-link active" data-view="inicio">⌂ Inicio</button>
-      <button class="nav-link" data-view="programa">▦ Programa</button>
-      <button class="nav-link" data-view="agenda">☆ Mi Agenda <span id="agendaCount" class="mini-count"></span></button>
-      <button class="nav-link" data-view="eventos">◉ Eventos destacados</button>
-      <button class="nav-link" data-view="carteles">▣ Carteles</button>
-      <button class="nav-link" data-view="constancias">◎ Constancias</button>
-      <button class="nav-link" data-view="info">ⓘ Información</button>
-    </nav>
-    <div class="institution-card">
-      <img src="assets/logos/logo-icea-uaeh.png" alt="Logo ICEA UAEH" />
-      <p>Investigación que transforma.<br>Innovación que conecta.</p>
-      <div class="hash">#ElijoSerGarza</div>
-    </div>
-  </aside>
-  <div class="overlay" id="overlay"></div>
-  <main class="main">
-    <header class="topbar">
-      <button class="menu-btn" id="menuBtn" aria-label="Abrir menú">☰</button>
-      <label class="global-search"><span>⌕</span><input id="globalSearch" placeholder="Buscar ponencia, autor, institución o palabra clave…" /></label>
-      <span class="site-pill">Sitio Oficial</span>
-    </header>
-    <section id="app" class="view"></section>
-    <footer class="footer">11° Congreso Internacional de Investigación en Ciencias Económico-Administrativas · ICEA UAEH · 2026</footer>
-  </main>
-  <dialog id="detailDialog" class="dialog"><button class="dialog-close" id="dialogClose">×</button><div id="dialogContent"></div></dialog>
-  <script src="app.js"></script>
-</body>
-</html>
+<aside class="sidebar" id="sidebar">
+  <div class="brand"><b>11°</b><div><strong>Congreso ICEA<br>2026</strong><small>Programa oficial</small></div></div>
+  <nav>
+    <button class="nav active" data-view="inicio">⌂ Inicio</button>
+    <button class="nav" data-view="programa">▦ Programa</button>
+    <button class="nav" data-view="agenda">☆ Mi Agenda <span id="agendaCount"></span></button>
+    <button class="nav" data-view="eventos">◉ Eventos destacados</button>
+    <button class="nav" data-view="carteles">▣ Carteles</button>
+    <button class="nav" data-view="constancias">◎ Constancias</button>
+    <button class="nav" data-view="info">ⓘ Información</button>
+  </nav>
+  <div class="institution"><strong>ICEA · UAEH</strong><p>Investigación que transforma.<br>Innovación que conecta.</p><b>#ElijoSerGarza</b></div>
+</aside>
+<div class="overlay" id="overlay"></div>
+<main>
+<header><button id="menuBtn" class="menu">☰</button><label class="search">⌕ <input id="globalSearch" placeholder="Buscar ponencia, autor o palabra clave…"></label><span class="official">Sitio Oficial</span></header>
+<section id="app"></section>
+<footer>11° Congreso Internacional de Investigación en Ciencias Económico-Administrativas · ICEA UAEH · 2026</footer>
+</main>
+<dialog id="dialog"><button id="closeDialog" class="close">×</button><div id="dialogBody"></div></dialog>
+<script src="app.js"></script>
+</body></html>
