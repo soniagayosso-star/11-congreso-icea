@@ -21,7 +21,7 @@
     {
       "fecha": "23 septiembre",
       "horario": "11:00–12:00",
-      "actividad": "Panel de Economía",
+      "actividad": "Foro de expertos: Biotecnología, bioeconomía e innovación sostenible: transformando los modelos de desarrollo y competitividad",
       "ubicacion": "Presencial · Plenaria",
       "detalle": null
     },
@@ -30,14 +30,14 @@
       "horario": "12:00–13:30",
       "actividad": "Ponencias · Mesas 1–5",
       "ubicacion": "Presencial",
-      "detalle": "25 ponencias · consultar pestaña 23 septiembre"
+      "detalle": "25 ponencias · consultar programa del 23 de septiembre"
     },
     {
       "fecha": "23 septiembre",
-      "horario": "15:00–17:00",
+      "horario": "15:00–16:00",
       "actividad": "Ponencias · Mesas 1–4",
       "ubicacion": "Virtual · Zoom",
-      "detalle": "8 ponencias · consultar pestaña 23 septiembre"
+      "detalle": "8 ponencias · consultar programa del 23 de septiembre"
     },
     {
       "fecha": "24 septiembre",
@@ -58,7 +58,7 @@
       "horario": "14:00–15:30",
       "actividad": "Ponencias · Mesas 1–5",
       "ubicacion": "Presencial",
-      "detalle": "17 ponencias · consultar pestaña 24 septiembre"
+      "detalle": "17 ponencias · consultar programa del 24 de septiembre"
     },
     {
       "fecha": "24 septiembre",
@@ -69,29 +69,36 @@
     },
     {
       "fecha": "24 septiembre",
-      "horario": "16:30–18:00",
+      "horario": "16:00–17:15",
       "actividad": "Ponencias · Mesas 1–4",
       "ubicacion": "Virtual · Zoom",
-      "detalle": "5 ponencias · consultar pestaña 24 septiembre"
+      "detalle": "5 ponencias · consultar programa del 24 de septiembre"
     },
     {
       "fecha": "25 septiembre",
       "horario": "09:00–10:30",
       "actividad": "Ponencias · Mesas 1–5",
       "ubicacion": "Presencial",
-      "detalle": "16 ponencias · consultar pestaña 25 septiembre"
+      "detalle": "16 ponencias · consultar programa del 25 de septiembre"
     },
     {
       "fecha": "25 septiembre",
-      "horario": "10:45–12:30",
+      "horario": "10:00–11:15",
       "actividad": "Ponencias · Mesas 1–4",
       "ubicacion": "Virtual · Zoom",
-      "detalle": "5 ponencias · consultar pestaña 25 septiembre"
+      "detalle": "5 ponencias · consultar programa del 25 de septiembre"
+    },
+    {
+      "fecha": "25 septiembre",
+      "horario": "10:00–14:00",
+      "actividad": "Foro de Productores y Empresarios del sector turístico (Expo-venta)",
+      "ubicacion": "Presencial · Sala de Biblioteca",
+      "detalle": "Exhibición de productos y servicios del sector turístico"
     },
     {
       "fecha": "25 septiembre",
       "horario": "13:00–14:00",
-      "actividad": "Foro de Turismo \"Agenda Digital e Inteligencia Artificial para rediseñar el turismo y Exposición de Productos Locales",
+      "actividad": "Foro de Turismo: Agenda Digital e Inteligencia Artificial para rediseñar el turismo",
       "ubicacion": "Presencial · Plenaria",
       "detalle": null
     },
