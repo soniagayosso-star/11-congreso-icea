@@ -42,7 +42,7 @@ function inicio(){
  const t=DATA.evento.totales||{};
  return `<section class="hero"><div class="kicker">Plataforma oficial</div><h1>11° Congreso Internacional ICEA 2026</h1><p>Programa académico, eventos destacados, carteles, constancias y orientación para asistentes en una sola plataforma.</p><div class="actions"><button class="btn primary" onclick="go('programa')">Ver programa</button><button class="btn" onclick="go('eventos')">Eventos destacados</button></div></section>
  <section class="stats"><div class="stat"><div id="countdown" class="countdown"></div></div><div class="stat"><b>${t.trabajos||DATA.trabajos.length}</b><span>Trabajos</span></div><div class="stat"><b>${t.mesas||5}</b><span>Mesas</span></div><div class="stat"><b>${t.ponencias||0}</b><span>Ponencias</span></div><div class="stat"><b>${t.carteles||0}</b><span>Carteles</span></div></section>
- <div class="section-kicker">Eventos destacados</div><h2 class="section-title">Momentos centrales del Congreso</h2><p class="lead">El cronograma general permanece visible y el programa académico puede consultarse por día, mesa y modalidad.</p>${eventCards((DATA.programaGeneral||[]).filter(e=>/inauguración|panel|conferencia|foro|reunión|clausura|brindis/i.test(e.actividad)))}
+ <div class="section-kicker">Eventos destacados</div><h2 class="section-title">Momentos centrales del Congreso</h2><p class="lead">El cronograma general permanece visible y el programa académico puede consultarse por día, mesa y modalidad.</p>${eventCards((DATA.programaGeneral||[]).filter(e=>/inauguración|panel|conferencia|foro|reunión|clausura|encuentro/i.test(e.actividad)))}
  <div style="margin-top:28px" class="section-kicker">Cronograma</div><h2 class="section-title">Programa general</h2>${schedule(DATA.programaGeneral||[])}`;
 }
 function header(title,lead){
@@ -59,7 +59,7 @@ function card(t){const s=saved(t.codigo);return `<article class="card" style="--
 function programa(){return header('Consulta por día, mesa o autor','La base corresponde al programa final del 31 de agosto de 2026.')+cards(filtered())}
 function carteles(){return header('Carteles académicos','Consulta los carteles presenciales y virtuales del Congreso.')+cards(filtered('Cartel'))}
 function agenda(){const ids=getAgenda();const x=DATA.trabajos.filter(t=>ids.includes(t.codigo));return `<div class="section-kicker">Mi Agenda</div><h1 class="section-title">Actividades guardadas</h1><p class="lead">Tu selección se guarda únicamente en este navegador.</p>${cards(x)}`}
-function eventos(){return `<div class="section-kicker">Eventos destacados</div><h1 class="section-title">Programa general</h1><p class="lead">Inauguración, paneles, conferencia, foro, reunión, clausura y brindis.</p>${eventCards(DATA.programaGeneral||[])}`}
+function eventos(){return `<div class="section-kicker">Eventos destacados</div><h1 class="section-title">Programa general</h1><p class="lead">Inauguración, paneles, conferencia, foro, reunión, clausura y encuentro de cierre.</p>${eventCards(DATA.programaGeneral||[])}`}
 function eventCards(items){return `<div class="event-grid">${items.map(e=>`<article class="event"><div><div class="kicker">${e.fecha||''}</div><h3>${e.actividad}</h3><p>${e.ubicacion||''}</p></div><b>${e.horario||''}</b></article>`).join('')}</div>`}
 function schedule(items){return `<div>${items.map(e=>`<div class="agenda-row"><time>${e.fecha}<br>${e.horario||''}</time><div><b>${e.actividad}</b><span>${e.ubicacion||''}</span></div></div>`).join('')}</div>`}
 function constancias(){
