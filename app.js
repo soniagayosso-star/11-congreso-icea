@@ -6,7 +6,7 @@ const colors={'Mesa 1':'#78001f','Mesa 2':'#174f86','Mesa 3':'#0f7f78','Mesa 4':
 
 async function boot(){
  try{
-   const r=await fetch('data/programa.json?v=20260901c',{cache:'no-store'});
+   const r=await fetch('data/programa.json?v=20260902-final',{cache:'no-store'});
    if(!r.ok) throw new Error('HTTP '+r.status);
    DATA=await r.json();
    if(!Array.isArray(DATA.trabajos)) throw new Error('La base no contiene trabajos');
@@ -59,7 +59,7 @@ function card(t){const s=saved(t.codigo);return `<article class="card" style="--
 function programa(){return header('Consulta por día, mesa o autor','La base corresponde al programa final del 31 de agosto de 2026.')+cards(filtered())}
 function carteles(){return header('Carteles académicos','Consulta los carteles presenciales y virtuales del Congreso.')+cards(filtered('Cartel'))}
 function agenda(){const ids=getAgenda();const x=DATA.trabajos.filter(t=>ids.includes(t.codigo));return `<div class="section-kicker">Mi Agenda</div><h1 class="section-title">Actividades guardadas</h1><p class="lead">Tu selección se guarda únicamente en este navegador.</p>${cards(x)}`}
-function eventos(){return `<div class="section-kicker">Eventos destacados</div><h1 class="section-title">Programa general</h1><p class="lead">Inauguración, paneles, conferencia, foro, reunión, clausura y encuentro de cierre.</p>${eventCards(DATA.programaGeneral||[])}`}
+function eventos(){return `<div class="section-kicker">Eventos destacados</div><h1 class="section-title">Programa general</h1><p class="lead">Inauguración, foros, conferencia magistral, expo-venta, reunión, clausura y encuentro de cierre.</p>${eventCards(DATA.programaGeneral||[])}`}
 function eventCards(items){return `<div class="event-grid">${items.map(e=>`<article class="event"><div><div class="kicker">${e.fecha||''}</div><h3>${e.actividad}</h3><p>${e.ubicacion||''}</p></div><b>${e.horario||''}</b></article>`).join('')}</div>`}
 function schedule(items){return `<div>${items.map(e=>`<div class="agenda-row"><time>${e.fecha}<br>${e.horario||''}</time><div><b>${e.actividad}</b><span>${e.ubicacion||''}</span></div></div>`).join('')}</div>`}
 function constancias(){
