@@ -6,7 +6,7 @@ const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLo
 
 async function boot(){
   try{
-    const req=[fetch('data/meta-20260907.json?v=2',{cache:'no-store'}),...Array.from({length:6},(_,i)=>fetch(`data/works-20260907-${i+1}.json?v=2`,{cache:'no-store'})),fetch('data.json?v=bios',{cache:'no-store'}).catch(()=>null)];
+    const req=[fetch('data/meta-20260907.json?v=20260910-final',{cache:'no-store'}),...Array.from({length:6},(_,i)=>fetch(`data/works-20260907-${i+1}.json?v=20260910-final`,{cache:'no-store'})),fetch('data.json?v=bios',{cache:'no-store'}).catch(()=>null)];
     const res=await Promise.all(req);
     if(!res[0].ok) throw new Error('No se pudo cargar el programa final');
     const meta=await res[0].json();
@@ -36,7 +36,7 @@ function render(){const a=$('#app');if(view==='inicio')a.innerHTML=inicio();else
 function inicio(){
   const t=DATA.evento.totales||{};
   const hi=highlights().slice(0,6);
-  return `<section class="hero"><img class="hero-logo" src="assets/logos/logo-congreso.png" alt="Logo del Congreso"><div class="hero-actions"><button onclick="go('programa')">Consultar programa</button><button class="secondary" onclick="filters.day='2';go('programa')">Ver 24 de septiembre</button></div></section>
+  return `<section class="hero"><img class="hero-logo" src="assets/logos/logo-congreso.png" alt="Logo del Congreso"><div class="hero-actions"><button onclick="go('programa')">Programa completo</button><button class="secondary" onclick="filters.day='1';go('programa')">23 de septiembre</button><button class="secondary" onclick="filters.day='2';go('programa')">24 de septiembre</button><button class="secondary" onclick="filters.day='3';go('programa')">25 de septiembre</button></div></section>
   <section class="intro-strip"><div class="metric"><div id="countdown" class="countdown"></div></div><div class="metric"><b>${t.trabajos||DATA.trabajos.length}</b><span>Trabajos</span></div><div class="metric"><b>${t.ponencias||DATA.trabajos.filter(x=>x.tipo==='Ponencia').length}</b><span>Ponencias</span></div><div class="metric"><b>${t.carteles||DATA.trabajos.filter(x=>x.tipo==='Cartel').length}</b><span>Carteles</span></div></section>
   <div class="section-head"><div><div class="eyebrow">Imperdibles</div><h2 class="section-title">Momentos centrales del Congreso</h2><p class="lead">Una selección de actividades plenarias y encuentros especiales. El resto del programa se consulta por día.</p></div><button class="text-link" onclick="go('programa')">Ver programa completo →</button></div>
   <section class="highlights">${hi.map(highlightCard).join('')}</section>`;
@@ -57,7 +57,7 @@ function programa(){
 }
 function dayTabs(){return `<div class="day-tabs">${[['1','Miércoles','23 septiembre'],['2','Jueves','24 septiembre'],['3','Viernes','25 septiembre']].map(d=>`<button class="day-tab ${filters.day===d[0]?'active':''}" onclick="filters.day='${d[0]}';render()"><span>${d[1]}</span><b>${d[2]}</b></button>`).join('')}</div>`}
 function filtered(){const q=norm(filters.q);return DATA.trabajos.filter(t=>String(t.dia)===String(filters.day)&&(filters.mesa==='all'||t.mesa===filters.mesa)&&(filters.modalidad==='all'||t.modalidad===filters.modalidad)&&(filters.tipo==='all'||t.tipo===filters.tipo)&&(!q||norm([t.codigo,t.titulo,(t.autores||[]).join(' '),t.mesa,t.sala].join(' ')).includes(q)))}
-function specialsForDay(day){const token=day==='1'?'23 septiembre':day==='2'?'24 septiembre':'25 septiembre';return (DATA.programaGeneral||[]).filter(e=>norm(e.fecha).includes(norm(token))&&/inaugur|conferencia magistral|foro|expo|reunión anual|clausura|encuentro de cierre/i.test(e.actividad||''))}
+function specialsForDay(day){if(norm(filters.q))return [];const token=day==='1'?'23 septiembre':day==='2'?'24 septiembre':'25 septiembre';return (DATA.programaGeneral||[]).filter(e=>norm(e.fecha).includes(norm(token))&&/inaugur|conferencia magistral|foro|expo|reunión anual|clausura|encuentro de cierre/i.test(e.actividad||''))}
 function timeKey(v=''){const m=String(v).match(/(\d{1,2}):(\d{2})/);return m?Number(m[1])*60+Number(m[2]):9999}
 function timeline(day,items,specials){
   if(!items.length&&!specials.length)return `<div class="empty">No hay resultados con esos filtros.</div>`;
