@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260914-restaurado">
+  <link rel="stylesheet" href="styles.css?v=20260914-final-programa">
 </head>
 <body>
   <aside class="sidebar" id="sidebar">
@@ -20,7 +20,6 @@
       <button class="nav" data-view="programa">Programa</button>
       <button class="nav" data-view="agenda">Mi Agenda <span id="agendaCount"></span></button>
       <button class="nav" data-view="constancias">Constancias</button>
-      
     </nav>
     <div class="side-note">
       <b>23 · 24 · 25 SEP</b>
@@ -29,22 +28,18 @@
     </div>
   </aside>
   <div class="overlay" id="overlay"></div>
-
   <main>
     <header class="topbar">
       <button id="menuBtn" class="menu" aria-label="Abrir menú">☰</button>
-      <label class="search"><span>⌕</span><input id="globalSearch" placeholder="Buscar ponencia, autor o palabra clave…"></label>
-      <button class="program-shortcut" onclick="go('programa')">Programa 2026</button>
+      <label class="search"><span>⌕</span><input id="globalSearch" autocomplete="off" placeholder="Buscar título, autor, código, mesa o bloque…"></label>
     </header>
-
     <section id="app"></section>
-    
+    <footer>11° Congreso Internacional de Investigación en Ciencias Económico-Administrativas · ICEA UAEH · 2026</footer>
   </main>
-
   <dialog id="dialog">
     <button id="closeDialog" class="close" aria-label="Cerrar">×</button>
     <div id="dialogBody"></div>
   </dialog>
-  <script src="app.js?v=20260914-ajustes-finales"></script>
+  <script src="app.js?v=20260914-final-programa"></script>
 </body>
 </html>
