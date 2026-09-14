@@ -7,9 +7,9 @@
       "trabajos": 112,
       "ponencias": 85,
       "carteles": 27,
+      "mesas": 5,
       "presenciales": 85,
-      "virtuales": 27,
-      "mesas": 5
+      "virtuales": 27
     }
   },
   "programaGeneral": [
@@ -91,7 +91,7 @@
       "bloque": "Bloque virtual",
       "modalidad": "Virtual",
       "ubicacion": "Zoom",
-      "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1"
+      "zoom": "https://us06web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1"
     },
     {
       "dia": 24,
@@ -221,7 +221,7 @@
       "bloque": "Bloque virtual",
       "modalidad": "Virtual",
       "ubicacion": "Zoom",
-      "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1"
+      "zoom": ""
     },
     {
       "dia": 25,
