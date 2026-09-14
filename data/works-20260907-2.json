@@ -1,7 +1,7 @@
 [
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:30–15:45",
     "titulo": "Sostenibilidad e innovación en el desarrollo de alimentos: estrategias para reducir pérdidas y desperdicio alimentario",
     "autores": [
@@ -15,12 +15,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon79",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:45–16:00",
     "titulo": "Mujeres y trabajo artesanal en Tenango de Doria: identidad, patrimonio y ¿reconocimiento social?",
     "autores": [
@@ -34,12 +38,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon69",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:15–14:30",
     "titulo": "Integración de tecnologías emergentes en la educación ambiental del turismo sostenible: propuesta de un modelo metodológico",
     "autores": [
@@ -53,12 +61,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon01",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Lizet Manzo Martínez",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:30–14:45",
     "titulo": "Prosumidores, tribus y algoritmos, los nuevos roles del consumidor en mercados digitales emergentes",
     "autores": [
@@ -71,12 +83,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon02",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Lizet Manzo Martínez",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:45–15:00",
     "titulo": "Colorimetría mediante visión artificial para la digitalización del control de calidad en la cocción de productos cárnicos",
     "autores": [
@@ -90,12 +106,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon12",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Lizet Manzo Martínez",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:00–15:15",
     "titulo": "El futuro tecnológico en la manufactura con la Industria 5.0",
     "autores": [
@@ -108,12 +128,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon30",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Lizet Manzo Martínez",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:15–15:30",
     "titulo": "Identificación de escenarios de emprendimiento digital a través de la dinámica de sistemas",
     "autores": [
@@ -126,12 +150,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon31",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Lizet Manzo Martínez",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:30–15:45",
     "titulo": "Innovación en la evaluación de alimentos: aplicación de la visión artificial y el análisis de imágenes en la caracterización de productos gastronómicos",
     "autores": [
@@ -145,12 +173,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Lizet Manzo Martínez",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:00–12:15",
     "titulo": "Complementariedad entre la inversión pública y privada en México",
     "autores": [
@@ -164,12 +196,16 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon09",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dra. Yolanda Sánchez Torres",
+      "apoyo": "Dra. Ruth Ortiz Zarco"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:15–12:30",
     "titulo": "Análisis de conductas comerciales anticompetitivas en la importación de llantas procedentes de Vietnam a México",
     "autores": [
@@ -183,12 +219,16 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon16",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dra. Yolanda Sánchez Torres",
+      "apoyo": "Dra. Ruth Ortiz Zarco"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:30–12:45",
     "titulo": "El Comercio electrónico y sus efectos en el desempeño comercial de la región Asia-Pacífico, 2010-2023",
     "autores": [
@@ -202,12 +242,16 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon25",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dra. Yolanda Sánchez Torres",
+      "apoyo": "Dra. Ruth Ortiz Zarco"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:45–13:00",
     "titulo": "La subhegemonía de México y Brasil en América Latina ante la reconfiguración mundial",
     "autores": [
@@ -221,12 +265,16 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon75",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dra. Yolanda Sánchez Torres",
+      "apoyo": "Dra. Ruth Ortiz Zarco"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:00–14:15",
     "titulo": "La mercadotecnia sostenible y su relación con la autorregulación en las empresas textiles en México",
     "autores": [
@@ -239,12 +287,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon51",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:15–14:30",
     "titulo": "Impulso a la movilidad sostenible en la Ciudad de México: Una perspectiva sistémica transdisciplinar.",
     "autores": [
@@ -258,12 +310,16 @@
     "sala": "Tema: BLOQUE DE PONENCIAS VIRTUALES · 14:00–15:45\nHora: 23 sept 2026 02:00 p. m. Ciudad de México\n\nÚnase a la reunión de Zoom\nhttps://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1\n\nUnirse y tomar notas\nhttps://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1&mynotes=on\n\nEnlace al chat de la reunión\nhttps://us05web.zoom.us/launch/jc/83020655640\n\nID de reunión: 830 2065 5640\nCódigo de acceso: 540586",
     "codigo": "CIICEA_Pon14",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:30–14:45",
     "titulo": "Preparación interna de las Pymes y aprovechamiento del entorno: el papel de la gestión del talento humano en la competitividad",
     "autores": [
@@ -277,12 +333,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon15",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:45–15:00",
     "titulo": "Entre organización y sostenibilidad: procesos y dinámicas del ecoturismo",
     "autores": [
@@ -296,12 +356,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon33",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:00–15:15",
     "titulo": "Contribución de la industria de la minería en la sustentabilidad",
     "autores": [
@@ -315,12 +379,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon34",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:15–15:30",
     "titulo": "Construcción de un índice de inclusión financiera para México a través del Análisis de Componentes Principales",
     "autores": [
@@ -333,12 +401,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon03",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:30–15:45",
     "titulo": "Tejiendo Lazos en la Adversidad: Un Estudio Cualitativo Sobre Capital Social de Vinculación",
     "autores": [
@@ -352,7 +424,11 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon52",
     "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Karina Valencia Sandoval",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   }
 ]

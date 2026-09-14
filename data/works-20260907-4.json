@@ -1,7 +1,7 @@
 [
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:00–12:00",
     "titulo": "Uso y percepción de la Inteligencia Artificial en la zona sur de Hidalgo: un análisis por género y grupo de edad",
     "autores": [
@@ -19,7 +19,7 @@
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:00–09:15",
     "titulo": "Elementos motivacionales en el crecimiento empresarial en Hidalgo",
     "autores": [
@@ -33,12 +33,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon26",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:15–09:30",
     "titulo": "De residuo a recurso: inulina de agave desde opciones reales y bioeconomía",
     "autores": [
@@ -52,12 +56,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon41",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:30–09:45",
     "titulo": "Factores determinantes de la sostenibilidad del emprendimiento social: evidencia en Ecuador.",
     "autores": [
@@ -70,12 +78,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon42",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:45–10:00",
     "titulo": "Caracterización del emprendimiento social, en dos licenciaturas en una Universidad de Hidalgo, México",
     "autores": [
@@ -88,12 +100,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon48",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "10:00–10:15",
     "titulo": "Más allá del eslogan: campos semánticos dominantes en los registros de aviso comercial en México 2025",
     "autores": [
@@ -107,12 +123,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon49",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "10:15–10:30",
     "titulo": "Emprendimiento femenino y empoderamiento: una revisión de literatura",
     "autores": [
@@ -124,12 +144,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon50",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "10:30–10:45",
     "titulo": "Implicaciones de la actividad minera en el municipio de Zimapán, Hgo. (2020-2025): desde el marco de la sostenibilidad.",
     "autores": [
@@ -142,12 +166,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Blanca Cecilia Salazar Hernández",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:00–09:15",
     "titulo": "Maiz blanco en la sierra alta Hidalguese, 2022: análisis de género",
     "autores": [
@@ -160,12 +188,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon38",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Angélica María Vázquez Rojas",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:15–09:30",
     "titulo": "Cambios en la agricultura de la Sierra Alta Hidalguense:2007-2022",
     "autores": [
@@ -179,12 +211,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon39",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Angélica María Vázquez Rojas",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:30–09:45",
     "titulo": "Comportamiento digital y valoración de la experiencia de los turistas del corredor de la montaña, Hidalgo",
     "autores": [
@@ -198,12 +234,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon44",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Angélica María Vázquez Rojas",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "09:45–10:00",
     "titulo": "Residuos, Diversificación Exportadora y Oportunidades de Suprarreciclaje: Perspectivas de Ciencia de Redes y Análisis Documental",
     "autores": [
@@ -217,12 +257,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon46",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Angélica María Vázquez Rojas",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:00–11:15",
     "titulo": "Entre Hongos y Cenizas. Proyecto de Innovación Tecnológica Culinaria Mico-Emociones Inmersivas.",
     "autores": [
@@ -236,12 +280,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon32",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Nancy Testón Franco",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:15–11:30",
     "titulo": "Diferencia salarial de género en profesionistas mexicanos",
     "autores": [
@@ -254,12 +302,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon40",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Nancy Testón Franco",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:30–11:45",
     "titulo": "La digitalización y la Sostenibilidad como Ejes Estratégicos del Comercio Internacional",
     "autores": [
@@ -272,12 +324,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon45",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Nancy Testón Franco",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:45–12:00",
     "titulo": "Online Travel Agencies: una mirada estratégica desde la vigilancia tecnológica",
     "autores": [
@@ -291,12 +347,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon53",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dra. Nancy Testón Franco",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:00–11:15",
     "titulo": "La reconfiguración de las cadenas globales y el nearshoring en México: mitos, realidades y desafíos estructurales.",
     "autores": [
@@ -309,12 +369,16 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon28",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dr. Enrique Guardado Ibarra",
+      "apoyo": "Dr. Mario Cruz Cruz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:15–11:30",
     "titulo": "Norteamérica y sus fracturas: México ante la segunda presidencia de Trump",
     "autores": [
@@ -327,12 +391,16 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon60",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dr. Enrique Guardado Ibarra",
+      "apoyo": "Dr. Mario Cruz Cruz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 2,
-    "diaTexto": "2 de septiembre",
+    "diaTexto": "24 de septiembre",
     "horario": "11:30–11:45",
     "titulo": "Reconfiguración Geopolítica de las Cadenas Globales de Valor: del Offshoring al Friendshoring",
     "autores": [
@@ -346,7 +414,11 @@
     "sala": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
     "codigo": "CIICEA_Pon65",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Enrique Guardado Ibarra / Dra. Yolanda Sánchez Torres",
+      "moderador": "Dr. Enrique Guardado Ibarra",
+      "apoyo": "Dr. Mario Cruz Cruz"
+    },
     "notaResponsables": ""
   }
 ]

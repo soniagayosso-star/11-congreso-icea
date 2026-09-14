@@ -1,7 +1,7 @@
 [
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:15–12:30",
     "titulo": "Posicionamiento y Expansión Comercial en el Mercado de Estados Unidos de una Empresa Mexicana de Calzado",
     "autores": [
@@ -14,12 +14,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon06",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:30–12:45",
     "titulo": "El diseño organizacional como factor de acumulación de capacidades tecnológicas en una empresa de transporte de carga especializada",
     "autores": [
@@ -33,12 +37,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon11",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:45–13:00",
     "titulo": "Capacidades de innovación sostenible y competitividad internacional en startups mexicanas: un análisis desde el ecosistema emprendedor de Querétaro",
     "autores": [
@@ -50,12 +58,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon17",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:00–13:15",
     "titulo": "La Inversión Extranjera y su impacto en el crecimiento regional: una forma de competitividad para el Estado de Hidalgo",
     "autores": [
@@ -69,12 +81,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon18",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:15–13:30",
     "titulo": "Crecimiento y desarrollo empresarial ene empresas sociales",
     "autores": [
@@ -88,12 +104,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon20",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:30–13:45",
     "titulo": "Estrategias de Innovación para la Competitividad de Balnearios Turísticos en México",
     "autores": [
@@ -107,12 +127,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon78",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:45–14:00",
     "titulo": "Clima organizacional y calidad en el servicio: Diseño, validación de instrumentos de medición y análisis correlacional en PyMEs de Multiservicios",
     "autores": [
@@ -126,12 +150,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dr. Martín Aubert Hernández Calzada",
+      "apoyo": "Dra. Jessica Mendoza Moheno"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:15–12:30",
     "titulo": "Diseño de un modelo de auditoría interna contable para el fortalecimiento del cumplimiento regulatorio y normativo: estudio de caso en la Notaría Pública No. 1 de Pachuca de Soto",
     "autores": [
@@ -145,12 +173,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon22",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:30–12:45",
     "titulo": "Gastar para gobernar: el presupuesto, la deuda y la formación del Estado mexicano (1825-1855)",
     "autores": [
@@ -163,12 +195,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon23",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "12:45–13:00",
     "titulo": "Cálculo y aplicación del Estímulo Fiscal al Diésel para Contribuyentes del Sector Autotransporte",
     "autores": [
@@ -182,12 +218,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon29",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:00–13:15",
     "titulo": "La evolución de la administración de riesgos fiscales: del control interno a la gestión estratégica",
     "autores": [
@@ -199,12 +239,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon56",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:15–13:30",
     "titulo": "Control interno para el proceso de la realización de las conciliaciones bancarias de acuerdo con el artículo 33 del RCFF y la NIF A-6",
     "autores": [
@@ -217,12 +261,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon71",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:30–13:45",
     "titulo": "Educomunicación e inteligencia artificial en la toma de decisiones financieras",
     "autores": [
@@ -236,12 +284,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon73",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "13:45–14:00",
     "titulo": "Evolución de la función de auditoría y su trayectoria frente a la manipulación de resultados en empresas mexicanas cotizadas",
     "autores": [
@@ -255,12 +307,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon77",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Angélica María Vázquez Rojas / Dra. Judith Alejandra Velázquez Castro",
+      "moderador": "Dra. Brenda Midhely García Ortiz",
+      "apoyo": "Dr. Oscar González Ruiz"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:15–14:30",
     "titulo": "Greenwashing y disonancia cognitiva: comportamiento del consumidor ante el discurso sustentable poco coherente en la moda rápida",
     "autores": [
@@ -274,12 +330,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon05",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:30–14:45",
     "titulo": "Turismo regenerativo en la planificación turística de los destinos turísticos de Hidalgo, México",
     "autores": [
@@ -292,12 +352,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon08",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "14:45–15:00",
     "titulo": "Producción de maíz blanco en México 2012-2019: indicios de un cambio estructural",
     "autores": [
@@ -310,12 +374,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon10",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:00–15:15",
     "titulo": "Extractivismo turístico y conflictos socioambientales en México: una lectura desde el colonialismo interno en Loreto y Mahahual",
     "autores": [
@@ -329,12 +397,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon13",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 1,
-    "diaTexto": "1 de septiembre",
+    "diaTexto": "23 de septiembre",
     "horario": "15:15–15:30",
     "titulo": "El comercio internacional y el medio ambiente: tendencias actuales",
     "autores": [
@@ -348,7 +420,11 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon19",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dra. Diana Xóchitl González Gómez",
+      "apoyo": "Dra. Liza Viviana Velasco Álvarez"
+    },
     "notaResponsables": ""
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "10:00–10:15",
     "titulo": "Factores sociolaborales y estilos de vida en la presencia de Burnout en personal de enfermería de un hospital público mexicano",
     "autores": [
@@ -15,12 +15,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon72",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Jessica Mendoza Moheno",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "10:15–10:30",
     "titulo": "Importancia de los factores de competitividad en pequeñas y medianas empresas restauranteras de Tizayuca, Hidalgo",
     "autores": [
@@ -34,12 +38,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon74",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Jessica Mendoza Moheno",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "10:30–10:45",
     "titulo": "Impacto de la Formalización como estrategia de crecimiento en las Pymes.",
     "autores": [
@@ -53,12 +61,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dr. Martín Aubert Hernández Calzada",
+      "moderador": "Dra. Jessica Mendoza Moheno",
+      "apoyo": "Dra. Karina Valencia Sandoval"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:00–09:15",
     "titulo": "Análisis del potencial comercial de las artesanías de Mitla, Oaxaca; desde la metodología del Análisis de Redes de Vínculos",
     "autores": [
@@ -72,12 +84,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon64",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dr. Pedro Alfonso Ramos Sánchez",
+      "apoyo": "Dr. Carlos Antonio Rosas Candelas"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:15–09:30",
     "titulo": "La Sostenibilidad en la Electromovilidad del Centro Histórico de la CDMX: un Enfoque Sistémico",
     "autores": [
@@ -91,12 +107,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon66",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dr. Pedro Alfonso Ramos Sánchez",
+      "apoyo": "Dr. Carlos Antonio Rosas Candelas"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:30–09:45",
     "titulo": "El papel de la confianza interpersonal en el consumo de artesanías en la Riviera Maya",
     "autores": [
@@ -110,12 +130,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon68",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dr. Pedro Alfonso Ramos Sánchez",
+      "apoyo": "Dr. Carlos Antonio Rosas Candelas"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:45–10:00",
     "titulo": "El Paradigma Sistémico frente a los límites del crecimiento: El caso del río Magdalena en la Ciudad de México",
     "autores": [
@@ -129,12 +153,16 @@
     "sala": "Sala de Usos Múltiples de Administración",
     "codigo": "CIICEA_Pon76",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+      "moderador": "Dr. Pedro Alfonso Ramos Sánchez",
+      "apoyo": "Dr. Carlos Antonio Rosas Candelas"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:00–09:15",
     "titulo": "Animación Deportiva Sociocultural y Planeación Estratégica como Instrumentos de Extensión Universitaria en el Instituto de Ciencias Económico Administrativas de la Universidad Autónoma del Estado de Hidalgo",
     "autores": [
@@ -148,12 +176,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon58",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dr. Carlos Antonio Rosas Candelas",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:15–09:30",
     "titulo": "Ecosistema inteligente para la gestión del cicloturismo sostenible en Hidalgo",
     "autores": [
@@ -166,12 +198,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon61",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dr. Carlos Antonio Rosas Candelas",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:30–09:45",
     "titulo": "La influencia de Instagram en la decisión de compra de membresías de gimnasio entre jóvenes hidalguenses",
     "autores": [
@@ -185,12 +221,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon63",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dr. Carlos Antonio Rosas Candelas",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:45–10:00",
     "titulo": "Desarrollo integral de una aplicación web para administrar quizzes en sistema e-learning",
     "autores": [
@@ -204,12 +244,16 @@
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
     "codigo": "CIICEA_Pon70",
     "zoom": "",
-    "roles": {},
+    "roles": {
+      "lider": "Dra. María Aline Manzo Martínez",
+      "moderador": "Dr. Carlos Antonio Rosas Candelas",
+      "apoyo": "—"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:00–09:15",
     "titulo": "Análisis económico regional de la Sierra Alta de Hidalgo",
     "autores": [
@@ -222,12 +266,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon07",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:15–09:30",
     "titulo": "Condiciones de empleo y desigualdades de género en los municipios de la Sierra Norte de Hidalgo: evidencia empírica",
     "autores": [
@@ -240,12 +288,16 @@
     "sala": "Tema: BLOQUE DE PONENCIAS VIRTUALES · 10:00–11:45\nHora: 25 sept 2026 09:45 a. m. Ciudad de México\nÚnase a la reunión de Zoom\nhttps://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1\n\nEnlace al chat de la reunión\nhttps://us06web.zoom.us/launch/jc/81404796430\n\nID de reunión: 814 0479 6430\nCódigo de acceso: 743098\n\nInstrucciones para unirse\nhttps://us06web.zoom.us/meetings/81404796430/invitations?signature=-O5gsfOILWxdtHUexAUKIeYL-J9YuTMjajsXD54eHSc",
     "codigo": "CIICEA_Pon21",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:30–09:45",
     "titulo": "Importancia de la Educación Financiera para los Emprendimientos en la Ciudad de Riobamba",
     "autores": [
@@ -259,12 +311,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon57",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "09:45–10:00",
     "titulo": "Evolución histórica de los sectores productivos en la Sierra Alta de Hidalgo: un análisis de (siglos XVIII-XXI)",
     "autores": [
@@ -277,12 +333,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon24",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "10:00–10:15",
     "titulo": "El Desarrollo Local: un Aporte de la Educación Financiera en el uso de los Servicios Financieros de las Cooperativas de Ahorro y Crédito en Ecuador",
     "autores": [
@@ -296,12 +356,16 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon27",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "10:15–10:30",
     "titulo": "El efecto del incremento de precios del mercado inmobiliario sobre la accesibilidad financiera a la vivienda en Torreón, Coahuila 2020-2025",
     "autores": [
@@ -315,12 +379,16 @@
     "sala": "Zoom",
     "codigo": "",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   },
   {
     "dia": 3,
-    "diaTexto": "3 de septiembre",
+    "diaTexto": "25 de septiembre",
     "horario": "10:30–10:45",
     "titulo": "Las MIPYMES en Chiapas frente a la Agenda 2030: contribución al desarrollo sostenible en contextos de vulnerabilidad territorial",
     "autores": [
@@ -334,7 +402,11 @@
     "sala": "Zoom",
     "codigo": "CIICEA_Pon35",
     "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
-    "roles": {},
+    "roles": {
+      "lider": "—",
+      "moderador": "Dra. Judith Alejandra Velázquez Castro",
+      "apoyo": "Dra. Aide Maricel Carrizal Alonso"
+    },
     "notaResponsables": ""
   }
 ]
