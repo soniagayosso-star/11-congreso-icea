@@ -23,3 +23,5 @@
 .zoom-link{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;background:var(--wine);color:#fff!important;border:1px solid var(--wine);border-radius:11px;padding:9px 13px;font-size:12px;font-weight:850;white-space:nowrap;box-shadow:0 10px 24px -18px rgba(70,0,28,.8)}
 .zoom-link:hover{background:var(--wine2);border-color:var(--wine2)}
 @media(max-width:700px){.program-day-head{margin-top:18px}.program-day-head b{font-size:18px}}
+
+.zoom-pending{opacity:.72;cursor:not-allowed}.highlight-action{margin-top:14px}.highlight-action .chip-btn{display:inline-flex}
