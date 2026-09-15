@@ -164,7 +164,7 @@
     "modalidad": "Presencial",
     "mesa": "Mesa 1",
     "sala": "Sala Yacatecuhtli · PB · Edificio D",
-    "codigo": "",
+    "codigo": "CIICEA_Pon84",
     "zoom": "",
     "roles": {
       "lider": "Dr. Martín Aubert Hernández Calzada",
@@ -313,10 +313,11 @@
     "dia": 2,
     "diaTexto": "24 de septiembre",
     "horario": "11:30–11:45",
-    "titulo": "La digitalización y la Sostenibilidad como Ejes Estratégicos del Comercio Internacional",
+    "titulo": "La digitalización como eje estratégico del Comercio Internacional",
     "autores": [
       "María Aline Manzo Martínez",
-      "Edgar Esaúl Vite Gómez"
+      "Edgar Esaúl Vite Gómez",
+      "Lizet Manzo Martínez"
     ],
     "tipo": "Ponencia",
     "modalidad": "Presencial",

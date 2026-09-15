@@ -234,13 +234,13 @@
       "zoom": ""
     },
     {
-      "dia": 25,
+      "dia": 3,
       "fecha": "25 septiembre",
-      "horario": "13:00–14:00",
+      "horario": "18:00",
       "actividad": "Reunión Anual de la Red Internacional de Mercadotecnia",
       "bloque": "—",
-      "modalidad": "Híbrida",
-      "ubicacion": "Por confirmar",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
       "zoom": ""
     },
     {
@@ -414,7 +414,7 @@
       "modalidad": "Presencial",
       "mesa": "Mesa 1",
       "sala": "Sala Yacatecuhtli · PB · Edificio D",
-      "codigo": "",
+      "codigo": "CIICEA_Pon82",
       "zoom": "",
       "roles": {
         "lider": "Dr. Martín Aubert Hernández Calzada",
@@ -865,7 +865,7 @@
       "modalidad": "Presencial",
       "mesa": "Mesa 4",
       "sala": "Sala Yacatecuhtli · PB · Edificio D",
-      "codigo": "",
+      "codigo": "CIICEA_Pon83",
       "zoom": "",
       "roles": {
         "lider": "Dra. María Aline Manzo Martínez",
@@ -1640,7 +1640,7 @@
       "modalidad": "Presencial",
       "mesa": "Mesa 1",
       "sala": "Sala Yacatecuhtli · PB · Edificio D",
-      "codigo": "",
+      "codigo": "CIICEA_Pon84",
       "zoom": "",
       "roles": {
         "lider": "Dr. Martín Aubert Hernández Calzada",
@@ -1789,10 +1789,11 @@
       "dia": 2,
       "diaTexto": "24 de septiembre",
       "horario": "11:30–11:45",
-      "titulo": "La digitalización y la Sostenibilidad como Ejes Estratégicos del Comercio Internacional",
+      "titulo": "La digitalización como eje estratégico del Comercio Internacional",
       "autores": [
         "María Aline Manzo Martínez",
-        "Edgar Esaúl Vite Gómez"
+        "Edgar Esaúl Vite Gómez",
+        "Lizet Manzo Martínez"
       ],
       "tipo": "Ponencia",
       "modalidad": "Presencial",
@@ -2365,7 +2366,7 @@
       "modalidad": "Presencial",
       "mesa": "Mesa 1",
       "sala": "Sala Yacatecuhtli · PB · Edificio D",
-      "codigo": "",
+      "codigo": "CIICEA_Pon85",
       "zoom": "",
       "roles": {
         "lider": "Dr. Martín Aubert Hernández Calzada",
@@ -2683,7 +2684,7 @@
       "modalidad": "Virtual",
       "mesa": "Bloque virtual",
       "sala": "Zoom",
-      "codigo": "",
+      "codigo": "CIICEA_Pon81",
       "zoom": "https://us06web.zoom.us/j/81404796430?pwd=pAN8lkbntxfEEmkvPY17vZLMCRgp4n.1",
       "roles": {
         "lider": "—",
