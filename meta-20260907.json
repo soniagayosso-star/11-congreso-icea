@@ -1,0 +1,293 @@
+{
+  "evento": {
+    "nombre": "11° Congreso Internacional de Investigación en Ciencias Económico-Administrativas",
+    "fechaInicio": "2026-09-23",
+    "fechaFin": "2026-09-25",
+    "totales": {
+      "trabajos": 112,
+      "ponencias": 85,
+      "carteles": 27,
+      "mesas": 5,
+      "presenciales": 85,
+      "virtuales": 27
+    }
+  },
+  "programaGeneral": [
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "10:00–10:45",
+      "actividad": "Ceremonia de inauguración",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "11:00–12:00",
+      "actividad": "Foro de expertos “Biotecnología, bioeconomía e innovación sostenible: transformando los modelos de desarrollo y competitividad”",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "12:15–14:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 1",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala Yacatecuhtli · PB · Edificio D",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "12:15–14:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 2",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala de Usos Múltiples de Administración",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "14:15–16:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 3",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala de Usos Múltiples de Administración",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "14:15–15:45",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 4",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala Yacatecuhtli · PB · Edificio D",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "12:00–13:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 5",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "14:00–15:45",
+      "actividad": "Ponencias",
+      "bloque": "Bloque virtual",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": "https://us06web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1"
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "09:00–12:00",
+      "actividad": "Carteles",
+      "bloque": "Sesión de carteles",
+      "modalidad": "Presencial",
+      "ubicacion": "Planta Baja de Biblioteca",
+      "zoom": ""
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "11:30–13:30",
+      "actividad": "Conferencia Magistral · Cultura de la Paz en Estudios Económicos",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "09:00–10:45",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 1",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala Yacatecuhtli · PB · Edificio D",
+      "zoom": ""
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "09:00–10:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 3",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala de Usos Múltiples de Administración",
+      "zoom": ""
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "11:00–12:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 4",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala Yacatecuhtli · PB · Edificio D",
+      "zoom": ""
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "11:00–12:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 5",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
+      "zoom": ""
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "11:00–12:30",
+      "actividad": "Ponencias",
+      "bloque": "Bloque virtual",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": "https://us05web.zoom.us/j/83220690480?pwd=jZWuWgIyZxUU0fu4F5kwSGKpJWiuNg.1"
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "12:00–13:45",
+      "actividad": "Carteles",
+      "bloque": "Bloque virtual de carteles",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": "https://us06web.zoom.us/j/83462101202?pwd=kFFixasfS15JlnhOUJ2NZ8jhvUys64.1"
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "09:00–10:45",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 1",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala Yacatecuhtli · PB · Edificio D",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "09:00–10:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 3",
+      "modalidad": "Presencial",
+      "ubicacion": "Sala de Usos Múltiples de Administración",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "09:00–10:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 4",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "10:00–14:00",
+      "actividad": "Expo Empresarial del sector turístico",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Planta Baja de Biblioteca",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "10:00–11:45",
+      "actividad": "Ponencias",
+      "bloque": "Bloque virtual",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "13:00–14:00",
+      "actividad": "Foro de Turismo: Agenda Digital e Inteligencia Artificial para rediseñar el turismo",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "18:00",
+      "actividad": "Reunión Anual de la Red Internacional de Mercadotecnia",
+      "bloque": "—",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "14:00–14:30",
+      "actividad": "Ceremonia de clausura",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "14:30–15:30",
+      "actividad": "Encuentro de cierre y brindis de honor",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Terraza de Gastronomía",
+      "zoom": ""
+    }
+  ],
+  "mesas": [
+    {
+      "codigo": "Mesa 1"
+    },
+    {
+      "codigo": "Mesa 2"
+    },
+    {
+      "codigo": "Mesa 3"
+    },
+    {
+      "codigo": "Mesa 4"
+    },
+    {
+      "codigo": "Mesa 5"
+    },
+    {
+      "codigo": "Bloque virtual"
+    },
+    {
+      "codigo": "Sesión de carteles"
+    },
+    {
+      "codigo": "Bloque virtual de carteles"
+    }
+  ]
+}
