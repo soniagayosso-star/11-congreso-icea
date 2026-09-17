@@ -16,6 +16,16 @@
     {
       "dia": 23,
       "fecha": "23 septiembre",
+      "horario": "09:00–09:45",
+      "actividad": "Registro de ponentes",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Planta baja de la Biblioteca",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
       "horario": "10:00–10:45",
       "actividad": "Ceremonia de inauguración",
       "bloque": "—",
@@ -31,6 +41,16 @@
       "bloque": "—",
       "modalidad": "Presencial",
       "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
+      "horario": "12:00–13:00",
+      "actividad": "Ponencias",
+      "bloque": "Mesa 5",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
       "zoom": ""
     },
     {
@@ -56,6 +76,16 @@
     {
       "dia": 23,
       "fecha": "23 septiembre",
+      "horario": "14:00–15:45",
+      "actividad": "Ponencias",
+      "bloque": "Bloque virtual",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": "https://us06web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1"
+    },
+    {
+      "dia": 23,
+      "fecha": "23 septiembre",
       "horario": "14:15–16:00",
       "actividad": "Ponencias",
       "bloque": "Mesa 3",
@@ -74,26 +104,6 @@
       "zoom": ""
     },
     {
-      "dia": 23,
-      "fecha": "23 septiembre",
-      "horario": "12:00–13:00",
-      "actividad": "Ponencias",
-      "bloque": "Mesa 5",
-      "modalidad": "Presencial",
-      "ubicacion": "Audiovisual Mercadotecnia · 1er piso · Edificio E",
-      "zoom": ""
-    },
-    {
-      "dia": 23,
-      "fecha": "23 septiembre",
-      "horario": "14:00–15:45",
-      "actividad": "Ponencias",
-      "bloque": "Bloque virtual",
-      "modalidad": "Virtual",
-      "ubicacion": "Zoom",
-      "zoom": "https://us06web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1"
-    },
-    {
       "dia": 24,
       "fecha": "24 septiembre",
       "horario": "09:00–12:00",
@@ -101,16 +111,6 @@
       "bloque": "Sesión de carteles",
       "modalidad": "Presencial",
       "ubicacion": "Planta Baja de Biblioteca",
-      "zoom": ""
-    },
-    {
-      "dia": 24,
-      "fecha": "24 septiembre",
-      "horario": "11:30–13:30",
-      "actividad": "Conferencia Magistral · Cultura de la Paz en Estudios Económicos",
-      "bloque": "—",
-      "modalidad": "Presencial",
-      "ubicacion": "Audiovisual Carlos Sepúlveda",
       "zoom": ""
     },
     {
@@ -156,12 +156,22 @@
     {
       "dia": 24,
       "fecha": "24 septiembre",
-      "horario": "11:00–12:30",
+      "horario": "11:00–12:45",
       "actividad": "Ponencias",
       "bloque": "Bloque virtual",
       "modalidad": "Virtual",
       "ubicacion": "Zoom",
       "zoom": "https://us05web.zoom.us/j/83220690480?pwd=jZWuWgIyZxUU0fu4F5kwSGKpJWiuNg.1"
+    },
+    {
+      "dia": 24,
+      "fecha": "24 septiembre",
+      "horario": "11:30–13:30",
+      "actividad": "Conferencia Magistral · Cultura de la Paz en Estudios Económicos",
+      "bloque": "—",
+      "modalidad": "Presencial",
+      "ubicacion": "Audiovisual Carlos Sepúlveda",
+      "zoom": ""
     },
     {
       "dia": 24,
@@ -236,16 +246,6 @@
     {
       "dia": 25,
       "fecha": "25 septiembre",
-      "horario": "18:00",
-      "actividad": "Reunión Anual de la Red Internacional de Mercadotecnia",
-      "bloque": "—",
-      "modalidad": "Virtual",
-      "ubicacion": "Zoom",
-      "zoom": ""
-    },
-    {
-      "dia": 25,
-      "fecha": "25 septiembre",
       "horario": "14:00–14:30",
       "actividad": "Ceremonia de clausura",
       "bloque": "—",
@@ -262,6 +262,16 @@
       "modalidad": "Presencial",
       "ubicacion": "Terraza de Gastronomía",
       "zoom": ""
+    },
+    {
+      "dia": 25,
+      "fecha": "25 septiembre",
+      "horario": "18:00",
+      "actividad": "Reunión Anual de la Red Internacional de Mercadotecnia",
+      "bloque": "—",
+      "modalidad": "Virtual",
+      "ubicacion": "Zoom",
+      "zoom": "https://us02web.zoom.us/j/89063629336?pwd=O7RzQpEaED189qpZnkbvje9X1ZKpsQ.1"
     }
   ],
   "trabajos": [
@@ -989,9 +999,9 @@
       "notaResponsables": ""
     },
     {
-      "dia": 1,
-      "diaTexto": "23 de septiembre",
-      "horario": "14:15–14:30",
+      "dia": 2,
+      "diaTexto": "24 de septiembre",
+      "horario": "12:30–12:45",
       "titulo": "Impulso a la movilidad sostenible en la Ciudad de México: Una perspectiva sistémica transdisciplinar.",
       "autores": [
         "Carlos de Jesús García García",
@@ -1003,10 +1013,10 @@
       "mesa": "Bloque virtual",
       "sala": "Zoom",
       "codigo": "CIICEA_Pon14",
-      "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
+      "zoom": "https://us05web.zoom.us/j/83220690480?pwd=jZWuWgIyZxUU0fu4F5kwSGKpJWiuNg.1",
       "roles": {
         "lider": "—",
-        "moderador": "Dra. Karina Valencia Sandoval",
+        "moderador": "Dr. Elías Gaona Rivera",
         "apoyo": "Dra. Aide Maricel Carrizal Alonso"
       },
       "notaResponsables": ""
@@ -2287,7 +2297,7 @@
       "dia": 3,
       "diaTexto": "25 de septiembre",
       "horario": "09:45–10:00",
-      "titulo": "Retos internos y competitiva de las MiPyMEs mexicanas: evidencia cualitativa desde la perspectiva de expertos",
+      "titulo": "Retos internos y competitividad de las MiPyMEs mexicanas: evidencia cualitativa desde la perspectiva de expertos",
       "autores": [
         "Roberto Estrada Bárcenas",
         "Danae Duana Avila",
