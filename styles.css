@@ -25,3 +25,10 @@
 @media(max-width:700px){.program-day-head{margin-top:18px}.program-day-head b{font-size:18px}}
 
 .zoom-pending{opacity:.72;cursor:not-allowed}.highlight-action{margin-top:14px}.highlight-action .chip-btn{display:inline-flex}
+
+/* Ajuste 17 SEP: mayor contraste para sedes/salas sin modificar la composición */
+.mesa-title>span{color:#40373d;font-weight:750}
+.mesa-facts{color:#51464d}
+.mesa-facts b{color:#18141a;font-weight:900}
+.special-compact span{color:#4a4046;font-weight:650}
+.highlight p{color:#fff;font-weight:650}
