@@ -56,7 +56,7 @@
     {
       "dia": 23,
       "fecha": "23 septiembre",
-      "horario": "12:15–14:00",
+      "horario": "12:15–13:30",
       "actividad": "Ponencias",
       "bloque": "Mesa 1",
       "modalidad": "Presencial",
@@ -126,7 +126,7 @@
     {
       "dia": 24,
       "fecha": "24 septiembre",
-      "horario": "09:00–10:00",
+      "horario": "09:00–10:15",
       "actividad": "Ponencias",
       "bloque": "Mesa 3",
       "modalidad": "Presencial",
@@ -344,7 +344,7 @@
     {
       "dia": 2,
       "diaTexto": "24 de septiembre",
-      "horario": "10:45–11:00",
+      "horario": "10:00–10:15",
       "titulo": "La Inversión Extranjera y su impacto en el crecimiento regional: una forma de competitividad para el Estado de Hidalgo",
       "autores": [
         "Danae Duana Avila",
@@ -353,21 +353,21 @@
       ],
       "tipo": "Ponencia",
       "modalidad": "Presencial",
-      "mesa": "Mesa 1",
-      "sala": "Sala Yacatecuhtli · PB · Edificio D",
+      "mesa": "Mesa 3",
+      "sala": "Sala de Usos Múltiples de Administración",
       "codigo": "CIICEA_Pon18",
       "zoom": "",
       "roles": {
-        "lider": "Dr. Martín Aubert Hernández Calzada",
-        "moderador": "Dra. Blanca Cecilia Salazar Hernández",
-        "apoyo": "Dra. Karina Valencia Sandoval"
+        "lider": "Dra. Brenda Midhely García Ortiz / Dr. Zeus Salvador Hernández Veleros",
+        "moderador": "Dra. Angélica María Vázquez Rojas",
+        "apoyo": "Dra. Liza Viviana Velasco Álvarez"
       },
       "notaResponsables": ""
     },
     {
       "dia": 1,
       "diaTexto": "23 de septiembre",
-      "horario": "13:15–13:30",
+      "horario": "12:45–13:00",
       "titulo": "Crecimiento y desarrollo empresarial ene empresas sociales",
       "autores": [
         "Edgar Rogelio Álvarez Reyes",
@@ -390,7 +390,7 @@
     {
       "dia": 1,
       "diaTexto": "23 de septiembre",
-      "horario": "13:30–13:45",
+      "horario": "13:00–13:15",
       "titulo": "Estrategias de Innovación para la Competitividad de Balnearios Turísticos en México",
       "autores": [
         "Miguel Bonifacio Chulim Lemus",
@@ -413,7 +413,7 @@
     {
       "dia": 1,
       "diaTexto": "23 de septiembre",
-      "horario": "13:45–14:00",
+      "horario": "13:15–13:30",
       "titulo": "Clima organizacional y calidad en el servicio: Diseño, validación de instrumentos de medición y análisis correlacional en PyMEs de Multiservicios",
       "autores": [
         "Jocelyn Estrella Rodríguez Martínez",
