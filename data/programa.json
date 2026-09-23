@@ -7,8 +7,8 @@
       "trabajos": 112,
       "ponencias": 85,
       "carteles": 27,
-      "presenciales": 85,
-      "virtuales": 27,
+      "presenciales": 84,
+      "virtuales": 28,
       "mesas": 5
     }
   },
@@ -323,21 +323,21 @@
     {
       "dia": 1,
       "diaTexto": "23 de septiembre",
-      "horario": "12:45–13:00",
+      "horario": "14:15–14:30",
       "titulo": "Capacidades de innovación sostenible y competitividad internacional en startups mexicanas: un análisis desde el ecosistema emprendedor de Querétaro",
       "autores": [
         "Claudia Gabriela Zapata Garza"
       ],
       "tipo": "Ponencia",
-      "modalidad": "Presencial",
-      "mesa": "Mesa 1",
-      "sala": "Sala Yacatecuhtli · PB · Edificio D",
+      "modalidad": "Virtual",
+      "mesa": "Bloque virtual",
+      "sala": "Zoom",
       "codigo": "CIICEA_Pon17",
-      "zoom": "",
+      "zoom": "https://us05web.zoom.us/j/83020655640?pwd=mV2nqwqVbCBLd5vasr1tOCnJr35zAJ.1",
       "roles": {
-        "lider": "Dr. Martín Aubert Hernández Calzada",
-        "moderador": "Dr. Martín Aubert Hernández Calzada",
-        "apoyo": "Dra. Jessica Mendoza Moheno"
+        "lider": "—",
+        "moderador": "Dra. Karina Valencia Sandoval",
+        "apoyo": "Dra. Aide Maricel Carrizal Alonso"
       },
       "notaResponsables": ""
     },
